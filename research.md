@@ -7,4 +7,4 @@ Favor de usar el formato <TÍTULO> - [PUNTO RELEVANTE]; [PUNTO RELEVANTE];<ETC.>
 - Metal Warriors - Escala; Variedad de gameplay (misiones); Tema
 - Cybernator - Escala; Variedad de gampley (misiones); Tema
 - Gunlord X
-- Concord
+- ~Concord~
