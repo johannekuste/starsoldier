@@ -4,3 +4,4 @@
 - Metal Warriors
 - Cybernator
 - Gunlord X
+- Concord
