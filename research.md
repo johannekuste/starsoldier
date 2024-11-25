@@ -1,0 +1,6 @@
+- Metal Slug
+- Blackthorne
+- Turrican
+- Metal Warriors
+- Cybernator
+- Gunlord X
